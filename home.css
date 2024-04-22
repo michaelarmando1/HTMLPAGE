@@ -22,6 +22,10 @@ a {
     text-decoration: none;
 }
 
+h1 {
+    font-size: 45px;
+}
+
 .logotag {
     display: flex;
     text-align: center;
